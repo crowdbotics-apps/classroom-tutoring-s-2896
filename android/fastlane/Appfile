@@ -1,0 +1,2 @@
+json_key_file("") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.classroom_tutoring_s_2896") # e.g. com.krausefx.app
